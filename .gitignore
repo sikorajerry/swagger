@@ -1,9 +1,6 @@
-target/
-*.class
-*.jar
-*.war
-*.ear
-*.logs
+/**/.idea
+/**/.iml
 *.iml
-.idea/
-.eclipsetarget
+/**/target/
+buildNumber.properties
+pom.xml.releaseBackup
